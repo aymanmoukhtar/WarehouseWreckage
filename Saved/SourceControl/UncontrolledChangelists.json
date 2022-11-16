@@ -10,7 +10,11 @@
 				"C:/Personal/Unreal Projects/WarehouseWreckege/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
 				"C:/Personal/Unreal Projects/WarehouseWreckege/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"C:/Personal/Unreal Projects/WarehouseWreckege/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+				"C:/Personal/Unreal Projects/WarehouseWreckege/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset",
+				"C:/Personal/Unreal Projects/WarehouseWreckege/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Personal/Unreal Projects/WarehouseWreckege/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Personal/Unreal Projects/WarehouseWreckege/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Personal/Unreal Projects/WarehouseWreckege/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
 	]
